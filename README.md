@@ -9,9 +9,13 @@ These instructions will get you a copy of the project up and running on your loc
 ### Prerequisites
 
 What things you need to install the software and how to install them
+also camden smells:
 
 ```
-Give examples
+He smells in a car
+He smells at the bar
+He smells here
+He smells everywhere
 ```
 
 ### Installing
